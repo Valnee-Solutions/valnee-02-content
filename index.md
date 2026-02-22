@@ -163,7 +163,7 @@ Post-delivery support is limited to the two-week review period by default. Ongoi
 IMAGE SUGGESTION: Founder headshot — clean background, professional and approachable. Natural light. Not a corporate portrait.
 ```
 
-**Arshad — Founder, Valnee Solutions**
+**Parth Wanjari — CEO & Founder, Valnee Solutions**
 
 A decade of software work across logistics, fintech, and B2B SaaS. Led engineering teams, shaped architecture decisions, and acted as fractional CTO for early-stage companies. Started Valnee after seeing the same agency problems repeat: junior developers on senior problems, undocumented handoffs, scope that expanded without warning.
 

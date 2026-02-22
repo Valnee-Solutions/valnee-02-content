@@ -12,23 +12,57 @@ We take on a small number of clients each quarter and assign senior practitioner
 
 ---
 
-## The Founder
+## Leadership
+
+**Parth Wanjari — CEO & Founder, Valnee Solutions**
 
 ```
-IMAGE SUGGESTION: Founder headshot — same image as on the homepage. Clean background, natural light, professional and approachable.
+IMAGE SUGGESTION: Professional headshot of Parth Wanjari — clean background, natural light.
 ```
-
-**Arshad — Founder, Valnee Solutions**
 
 A decade of software work across logistics, fintech, and B2B SaaS. His early career was in backend engineering on high-volume transaction systems — the kind of work where an error rate of 0.1% means thousands of real failures per day. That shaped how he approaches product architecture: systems that fail predictably, fail visibly, and can be fixed without a production emergency.
 
-Over time, Arshad moved into technical leadership — leading teams, making architecture decisions, and acting as a fractional CTO for early-stage companies. In that role, he worked with founders who had been badly served by agencies and freelancers: projects delivered late, codebases no one else could maintain, scope that expanded without warning, documentation that didn't exist.
+Over time, Parth moved into technical leadership — leading teams, making architecture decisions, and acting as a fractional CTO for early-stage companies. In that role, he worked with founders who had been badly served by agencies and freelancers: projects delivered late, codebases no one else could maintain, scope that expanded without warning, documentation that didn't exist.
 
 The pattern was consistent enough that it felt less like a series of bad actors and more like a structural problem with how most agencies are run. Valnee was built to operate differently.
 
 Smaller client load. Senior practitioners on every engagement. Scope defined in writing before work begins. Documentation produced continuously, not crammed into the final week. A post-delivery review built into every engagement by default.
 
-*"The agencies that frustrated me most were the ones that treated every project like a project. What founders actually need is a technical partner who understands their business is on the line — not just a deadline."*
+*"Founders need a technical partner who understands their business is on the line — not just a deadline."*
+
+---
+
+**Rajat Disawal — CTO, Valnee Solutions**
+
+```
+IMAGE SUGGESTION: Professional headshot of Rajat Disawal — clean background, natural light.
+```
+
+Rajat leads the technical direction at Valnee. He oversees architecture decisions across all active engagements, sets the engineering standards the team is held to, and steps in directly on technically complex projects. His background spans systems design, API architecture, and building engineering practices for early-stage teams that need to move fast without creating compounding technical debt.
+
+---
+
+## The Team
+
+```
+IMAGE SUGGESTION: Team grid — profile photos in a clean 3-column layout on desktop, 2-column on mobile. Consistent photo style across all members: neutral background, natural light, professional. No stock photos.
+```
+
+### Developers
+
+**Niraj Salunke**
+
+**Hardik Gujarati**
+
+**Varun Budhani**
+
+**Aryan Mane**
+
+**Ramanpreet Kaur**
+
+### Designer
+
+**Kartik Bhawsar**
 
 ---
 
